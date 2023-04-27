@@ -1,0 +1,25 @@
+{
+  "name": "@nullworkbench/prettier-config",
+  "version": "0.0.1",
+  "description": "nullworkbench's default prettire config.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nullworkbench/prettier-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "author": "nullworkbench",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nullworkbench/prettier-config/issues"
+  },
+  "homepage": "https://github.com/nullworkbench/prettier-config#readme",
+  "dependencies": {
+    "prettier": "^2.8.8"
+  }
+}
